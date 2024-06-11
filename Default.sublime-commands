@@ -1,0 +1,6 @@
+[
+  { "caption": "Selection: Split into Characters",
+    "command": "split_selection_into_characters" },
+  { "caption": "Selection: Split on Boundaries",
+    "command": "split_selection_on_boundaries" },
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "id": "selection",
+        "children":
+        [
+            {"command": "split_selection_into_characters", "caption": "Split into Characters"},
+            {"command": "split_selection_on_boundaries", "caption": "Split on Boundaries"},
+        ]
+    }
+]
